@@ -1,0 +1,22 @@
+{
+  "name": "mwin",
+  "version": "1.0.0",
+  "description": "testing app with multiwindows interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepbreathnoob/mwin.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "deepbreathnoob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepbreathnoob/mwin/issues"
+  },
+  "homepage": "https://github.com/deepbreathnoob/mwin#readme"
+}
