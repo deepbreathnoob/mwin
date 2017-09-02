@@ -4,7 +4,7 @@
   "description": "testing app with multiwindows interface",
   "main": "app.js",
   "scripts": {
-    "test": "start"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/deepbreathnoob/mwin/issues"
   },
-  "homepage": "https://github.com/deepbreathnoob/mwin#readme"
+  "homepage": "https://github.com/deepbreathnoob/mwin#readme",
+  "devDependencies": {
+    "electron": "^1.7.5"
+  }
 }
